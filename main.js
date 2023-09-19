@@ -1,2 +1,1 @@
-alert("Olá mundo");
-alert("Bem vindo");
+alert("Seja bem vindo ao Alura MIDI");
